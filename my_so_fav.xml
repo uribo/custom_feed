@@ -1,6 +1,11 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel> 
+
+  <title>My StackOverflow Favorites</title>
+  <link>https://github.com/uribo/custom_feed/blob/master/my_so_fav.xml</link>
+  <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/uribo/custom_feed/master/my_so_fav.xml"/>
+
   <item> 
     <title>How does one add a collaborator in Github using the command line?</title>
     <link>http://stackoverflow.com/questions/13004061/how-does-one-add-a-collaborator-in-github-using-the-command-line</link>
