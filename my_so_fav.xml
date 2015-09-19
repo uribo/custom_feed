@@ -4,5 +4,795 @@
 <title>My StackOverflow Favorite</title>
 <link>https://github.com/uribo/custom_feed/blob/master/my_so_fav.xml</link>
 <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/uribo/custom_feed/master/my_so_fav.xml"/>
+  <item> 
+    <title>How to create missing value for repeated measurement data?</title>
+    <link>http://stackoverflow.com/questions/32654706/how-to-create-missing-value-for-repeated-measurement-data</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How does one add a collaborator in Github using the command line?</title>
+    <link>http://stackoverflow.com/questions/13004061/how-does-one-add-a-collaborator-in-github-using-the-command-line</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Integrating time series graphs and leaflet maps using R shiny</title>
+    <link>http://stackoverflow.com/questions/31814037/integrating-time-series-graphs-and-leaflet-maps-using-r-shiny</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Parse JSON with R</title>
+    <link>http://stackoverflow.com/questions/2061897/parse-json-with-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to remove all whitespace from a string?</title>
+    <link>http://stackoverflow.com/questions/5992082/how-to-remove-all-whitespace-from-a-string</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Show Git version in R Code</title>
+    <link>http://stackoverflow.com/questions/32260956/show-git-version-in-r-code</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Using DiagrammeR in Word document (generated using rMarkdown)</title>
+    <link>http://stackoverflow.com/questions/30307191/using-diagrammer-in-word-document-generated-using-rmarkdown</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Get all Parameters as List</title>
+    <link>http://stackoverflow.com/questions/11885207/get-all-parameters-as-list</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>R: posting search forms and scraping results</title>
+    <link>http://stackoverflow.com/questions/25100753/r-posting-search-forms-and-scraping-results</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>mysql data directory location</title>
+    <link>http://stackoverflow.com/questions/7459103/mysql-data-directory-location</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to change the order of facet labels in ggplot (custom facet wrap labels)</title>
+    <link>http://stackoverflow.com/questions/5490638/how-to-change-the-order-of-facet-labels-in-ggplot-custom-facet-wrap-labels</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How can I make the label not overlap the point in R?</title>
+    <link>http://stackoverflow.com/questions/23207617/how-can-i-make-the-label-not-overlap-the-point-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How can you get ggplot2 to display an inset figure when the main one has a log scale?</title>
+    <link>http://stackoverflow.com/questions/20271233/how-can-you-get-ggplot2-to-display-an-inset-figure-when-the-main-one-has-a-log-s</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Add dates to calendar heat map R</title>
+    <link>http://stackoverflow.com/questions/26171068/add-dates-to-calendar-heat-map-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to define which variables or functions from a package are exported</title>
+    <link>http://stackoverflow.com/questions/13436238/how-to-define-which-variables-or-functions-from-a-package-are-exported</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How do I replace NA values with zeros in R?</title>
+    <link>http://stackoverflow.com/questions/8161836/how-do-i-replace-na-values-with-zeros-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Emulate ggplot2 default color palette</title>
+    <link>http://stackoverflow.com/questions/8197559/emulate-ggplot2-default-color-palette</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Create a custom color palette in R</title>
+    <link>http://stackoverflow.com/questions/11911416/create-a-custom-color-palette-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>R choropleth map of the Dominican Republic</title>
+    <link>http://stackoverflow.com/questions/30953532/r-choropleth-map-of-the-dominican-republic</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Export a graph to .eps file with R</title>
+    <link>http://stackoverflow.com/questions/5142842/export-a-graph-to-eps-file-with-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Download a file from HTTPS using download.file()</title>
+    <link>http://stackoverflow.com/questions/23028760/download-a-file-from-https-using-download-file</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Download single files from GitHub</title>
+    <link>http://stackoverflow.com/questions/4604663/download-single-files-from-github</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Does TeXShop for Mac have key bindings?</title>
+    <link>http://tex.stackexchange.com/questions/82382/does-texshop-for-mac-have-key-bindings</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Workflow for converting LaTeX into Open Office / MS Word Format</title>
+    <link>http://tex.stackexchange.com/questions/4145/workflow-for-converting-latex-into-open-office-ms-word-format</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>LaTeX + Biblatex bibliography to other formats via Pandoc</title>
+    <link>http://tex.stackexchange.com/questions/174055/latex-biblatex-bibliography-to-other-formats-via-pandoc</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Diagnosing R package build warning: &#x201C;LaTeX errors when creating PDF version&#x201D;</title>
+    <link>http://stackoverflow.com/questions/10819959/diagnosing-r-package-build-warning-latex-errors-when-creating-pdf-version</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Space between rows in mdframed environment</title>
+    <link>http://tex.stackexchange.com/questions/166879/space-between-rows-in-mdframed-environment</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>flowfram: more dynamic page range</title>
+    <link>http://tex.stackexchange.com/questions/78008/flowfram-more-dynamic-page-range</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>multicols - different column widths</title>
+    <link>http://tex.stackexchange.com/questions/17668/multicols-different-column-widths</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Different column widths using multicol</title>
+    <link>http://tex.stackexchange.com/questions/89721/different-column-widths-using-multicol</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Image processing/color detection in R: what library should I use?</title>
+    <link>http://stackoverflow.com/questions/5489470/image-processing-color-detection-in-r-what-library-should-i-use</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>R determine image width and height in pixels</title>
+    <link>http://stackoverflow.com/questions/24978549/r-determine-image-width-and-height-in-pixels</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Circular plot in ggplot2 with line segments connected in r</title>
+    <link>http://stackoverflow.com/questions/11641356/circular-plot-in-ggplot2-with-line-segments-connected-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to add nice formated anotations to a R base graph using expression and the value of a variable?</title>
+    <link>http://stackoverflow.com/questions/3781058/how-to-add-nice-formated-anotations-to-a-r-base-graph-using-expression-and-the-v</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>find all functions (including private) in a package</title>
+    <link>http://stackoverflow.com/questions/8696158/find-all-functions-including-private-in-a-package</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Embedding a miniature plot within a plot</title>
+    <link>http://stackoverflow.com/questions/7793935/embedding-a-miniature-plot-within-a-plot</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Embedding a subplot in ggplot (ggsubplot)</title>
+    <link>http://stackoverflow.com/questions/20708012/embedding-a-subplot-in-ggplot-ggsubplot</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Why don't functional sequences work with ggplot2?</title>
+    <link>http://stackoverflow.com/questions/28604673/why-dont-functional-sequences-work-with-ggplot2</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Correlation matrix with p-values for xtable</title>
+    <link>http://stackoverflow.com/questions/10761923/correlation-matrix-with-p-values-for-xtable</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>qqnorm and qqline in ggplot2</title>
+    <link>http://stackoverflow.com/questions/4357031/qqnorm-and-qqline-in-ggplot2</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>R Base Graphic: Annotate with logical symbols (and/or)</title>
+    <link>http://stackoverflow.com/questions/18346115/r-base-graphic-annotate-with-logical-symbols-and-or</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Handling Latex backslashes in xtable</title>
+    <link>http://stackoverflow.com/questions/8732712/handling-latex-backslashes-in-xtable</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Changing the Color of negative numbers to Red in a table generated with xtable()?</title>
+    <link>http://stackoverflow.com/questions/12148770/changing-the-color-of-negative-numbers-to-red-in-a-table-generated-with-xtable</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Travis CI bootstrap failed</title>
+    <link>http://stackoverflow.com/questions/29609179/travis-ci-bootstrap-failed</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Using dplyr for exploratory plots</title>
+    <link>http://stackoverflow.com/questions/26043441/using-dplyr-for-exploratory-plots</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>users own pch (clip) in r</title>
+    <link>http://stackoverflow.com/questions/14102655/users-own-pch-clip-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Equivalent of curve() for ggplot</title>
+    <link>http://stackoverflow.com/questions/5177846/equivalent-of-curve-for-ggplot</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Set specific fill colors in ggplot2 by sign</title>
+    <link>http://stackoverflow.com/questions/12910218/set-specific-fill-colors-in-ggplot2-by-sign</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How can I color a specific bar in a bar plot (qplot, ggplot2)</title>
+    <link>http://stackoverflow.com/questions/5358316/how-can-i-color-a-specific-bar-in-a-bar-plot-qplot-ggplot2</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>using the magrittr tee %T&gt;% operator creates error</title>
+    <link>http://stackoverflow.com/questions/28665697/using-the-magrittr-tee-t-operator-creates-error</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to parse XML to R data frame</title>
+    <link>http://stackoverflow.com/questions/17198658/how-to-parse-xml-to-r-data-frame</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Parse RSS feed using XML packagin R</title>
+    <link>http://stackoverflow.com/questions/13467783/parse-rss-feed-using-xml-packagin-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Choosing between qplot() and ggplot() in ggplot2</title>
+    <link>http://stackoverflow.com/questions/5322836/choosing-between-qplot-and-ggplot-in-ggplot2</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>dplyr + magrittr + qplot = no plot?</title>
+    <link>http://stackoverflow.com/questions/27296022/dplyr-magrittr-qplot-no-plot</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>R: use magrittr pipe operator in self written package</title>
+    <link>http://stackoverflow.com/questions/27947344/r-use-magrittr-pipe-operator-in-self-written-package</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>What is the difference between %&gt;% and %,% in magrittr?</title>
+    <link>http://stackoverflow.com/questions/25211465/what-is-the-difference-between-and-in-magrittr</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>use %&gt;% with replacement functions like colnames() &lt;-</title>
+    <link>http://stackoverflow.com/questions/28100780/use-with-replacement-functions-like-colnames</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Reduced major axis line and CI for ggplot in R</title>
+    <link>http://stackoverflow.com/questions/6103288/reduced-major-axis-line-and-ci-for-ggplot-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Making a ternary plot</title>
+    <link>http://stackoverflow.com/questions/10439123/making-a-ternary-plot</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Filter multiple conditions dplyr</title>
+    <link>http://stackoverflow.com/questions/25647470/filter-multiple-conditions-dplyr</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Filtering row which contains a certain string using dplyr</title>
+    <link>http://stackoverflow.com/questions/22850026/filtering-row-which-contains-a-certain-string-using-dplyr</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Avoiding floating xtable in knitr hides the caption of the table</title>
+    <link>http://stackoverflow.com/questions/17499224/avoiding-floating-xtable-in-knitr-hides-the-caption-of-the-table</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Sorting matrix by column names</title>
+    <link>http://stackoverflow.com/questions/18339725/sorting-matrix-by-column-names</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Is it possible with ggvis to interactively change the variables for the x and y axes?</title>
+    <link>http://stackoverflow.com/questions/24840804/is-it-possible-with-ggvis-to-interactively-change-the-variables-for-the-x-and-y</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Creating multi column legend in ggplot</title>
+    <link>http://stackoverflow.com/questions/18400432/creating-multi-column-legend-in-ggplot</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Predicted values for logistic regression from glm and stat_smooth in ggplot2 are different</title>
+    <link>http://stackoverflow.com/questions/8845279/predicted-values-for-logistic-regression-from-glm-and-stat-smooth-in-ggplot2-are</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Modelling data with a Weibull link function in R</title>
+    <link>http://stackoverflow.com/questions/14777393/modelling-data-with-a-weibull-link-function-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Solving error message &#x201C;step halving factor reduced below minimum in NLS step&#x201D;: adjusting nlsTols not working</title>
+    <link>http://stackoverflow.com/questions/27547548/solving-error-message-step-halving-factor-reduced-below-minimum-in-nls-step-a</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>trying to display original and fitted data (nls + dnorm) with ggplot2's geom_smooth()</title>
+    <link>http://stackoverflow.com/questions/4382108/trying-to-display-original-and-fitted-data-nls-dnorm-with-ggplot2s-geom-smo</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Fitting with ggplot2, geom_smooth and nls</title>
+    <link>http://stackoverflow.com/questions/25030653/fitting-with-ggplot2-geom-smooth-and-nls</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to make a great R reproducible example?</title>
+    <link>http://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to convert a data frame column to numeric type?</title>
+    <link>http://stackoverflow.com/questions/2288485/how-to-convert-a-data-frame-column-to-numeric-type</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>ggplot2: barplot with colors as a function of y-axis value</title>
+    <link>http://stackoverflow.com/questions/20120194/ggplot2-barplot-with-colors-as-a-function-of-y-axis-value</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>R Error using readHTMLTable</title>
+    <link>http://stackoverflow.com/questions/17045107/r-error-using-readhtmltable</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Read a CSV from github into R</title>
+    <link>http://stackoverflow.com/questions/14441729/read-a-csv-from-github-into-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Plot a legend and well-spaced universal y-axis and main titles in grid.arrange</title>
+    <link>http://stackoverflow.com/questions/11076567/plot-a-legend-and-well-spaced-universal-y-axis-and-main-titles-in-grid-arrange</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to make graphics with transparent background in R using ggplot2?</title>
+    <link>http://stackoverflow.com/questions/7455046/how-to-make-graphics-with-transparent-background-in-r-using-ggplot2</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>ggplot2 bubbleplot with clustering data</title>
+    <link>http://stackoverflow.com/questions/20298060/ggplot2-bubbleplot-with-clustering-data</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Inserting an image to ggplot outside the chart area</title>
+    <link>http://stackoverflow.com/questions/12463691/inserting-an-image-to-ggplot-outside-the-chart-area</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>how to change the color of the rule (vertical line) in twocolumn document?</title>
+    <link>http://tex.stackexchange.com/questions/119110/how-to-change-the-color-of-the-rule-vertical-line-in-twocolumn-document</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Error with pred$fit using nls in ggplot2</title>
+    <link>http://stackoverflow.com/questions/13840658/error-with-predfit-using-nls-in-ggplot2</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Custom lm formula in geom_smooth</title>
+    <link>http://stackoverflow.com/questions/20240350/custom-lm-formula-in-geom-smooth</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Can I create an empty ggplot2 plot in R?</title>
+    <link>http://stackoverflow.com/questions/12518387/can-i-create-an-empty-ggplot2-plot-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Spanning multiple beamer columns</title>
+    <link>http://tex.stackexchange.com/questions/64120/spanning-multiple-beamer-columns</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>ggplot2: How to have a different color of geom_vline()</title>
+    <link>http://stackoverflow.com/questions/11102129/ggplot2-how-to-have-a-different-color-of-geom-vline</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to create posters using LaTeX</title>
+    <link>http://tex.stackexchange.com/questions/341/how-to-create-posters-using-latex</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>ggplot2: Logistic Regression - plot probabilities and regression line</title>
+    <link>http://stackoverflow.com/questions/17011121/ggplot2-logistic-regression-plot-probabilities-and-regression-line</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Sourcing an R script from github, for global session use, from within a wrapper function?</title>
+    <link>http://stackoverflow.com/questions/8229859/sourcing-an-r-script-from-github-for-global-session-use-from-within-a-wrapper</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to trim leading and trailing whitespace in R?</title>
+    <link>http://stackoverflow.com/questions/2261079/how-to-trim-leading-and-trailing-whitespace-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>R list to data frame</title>
+    <link>http://stackoverflow.com/questions/4227223/r-list-to-data-frame</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>What does eg %+% do? in R</title>
+    <link>http://stackoverflow.com/questions/1328903/what-does-eg-do-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How do I alternate images and only have captions for the first one?</title>
+    <link>http://tex.stackexchange.com/questions/46188/how-do-i-alternate-images-and-only-have-captions-for-the-first-one</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>What are all the possible first arguments to `\setbeamerfont`?</title>
+    <link>http://tex.stackexchange.com/questions/183052/what-are-all-the-possible-first-arguments-to-setbeamerfont</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to insert page number in Beamer Navigation Bars?</title>
+    <link>http://tex.stackexchange.com/questions/137022/how-to-insert-page-number-in-beamer-navigation-bars</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Totally sweet horizontal rules in LaTeX</title>
+    <link>http://tex.stackexchange.com/questions/32711/totally-sweet-horizontal-rules-in-latex</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Creating a background image on the title page only using Beamer</title>
+    <link>http://tex.stackexchange.com/questions/168757/creating-a-background-image-on-the-title-page-only-using-beamer</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Adding custom image in title slide</title>
+    <link>http://tex.stackexchange.com/questions/21356/adding-custom-image-in-title-slide</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>GGally::ggpairs plot without gridlines when plotting correlation coefficient</title>
+    <link>http://stackoverflow.com/questions/21810675/ggallyggpairs-plot-without-gridlines-when-plotting-correlation-coefficient</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Techniques for embedding images with transparent backgrounds in LaTeX</title>
+    <link>http://tex.stackexchange.com/questions/18685/techniques-for-embedding-images-with-transparent-backgrounds-in-latex</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Silence messages about masked functions</title>
+    <link>http://stackoverflow.com/questions/20319826/silence-messages-about-masked-functions</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>package wallpaper for landscape, latex</title>
+    <link>http://tex.stackexchange.com/questions/110858/package-wallpaper-for-landscape-latex</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>xtable adding a title on top and a caption under the table</title>
+    <link>http://stackoverflow.com/questions/26790530/xtable-adding-a-title-on-top-and-a-caption-under-the-table</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>error message when performing Gamma glmer in R- PIRLS step-halvings failed to reduce deviance in pwrssUpdate</title>
+    <link>http://stackoverflow.com/questions/25356633/error-message-when-performing-gamma-glmer-in-r-pirls-step-halvings-failed-to-re</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to link to part of the same document in Markdown?</title>
+    <link>http://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Font Awesome Skype icon doesn't work with moderncv</title>
+    <link>http://tex.stackexchange.com/questions/159312/font-awesome-skype-icon-doesnt-work-with-moderncv</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>fontawesome icons are getting too big using XeLaTeX</title>
+    <link>http://tex.stackexchange.com/questions/134121/fontawesome-icons-are-getting-too-big-using-xelatex</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>dredge function error - R package MuMln</title>
+    <link>http://stackoverflow.com/questions/25281739/dredge-function-error-r-package-mumln</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>What is the default font size of a LaTeX document?</title>
+    <link>http://tex.stackexchange.com/questions/155896/what-is-the-default-font-size-of-a-latex-document</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How do I change \footnote font size in beamer presentation?</title>
+    <link>http://tex.stackexchange.com/questions/21741/how-do-i-change-footnote-font-size-in-beamer-presentation</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to insert a background image in a beamer frame?</title>
+    <link>http://tex.stackexchange.com/questions/7916/how-to-insert-a-background-image-in-a-beamer-frame</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to set a small default font size with beamer?</title>
+    <link>http://tex.stackexchange.com/questions/56768/how-to-set-a-small-default-font-size-with-beamer</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Change bullet style / formatting in Beamer</title>
+    <link>http://tex.stackexchange.com/questions/11168/change-bullet-style-formatting-in-beamer</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Beamer how to change color of infolines and frame title</title>
+    <link>http://tex.stackexchange.com/questions/133820/beamer-how-to-change-color-of-infolines-and-frame-title</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Multiple colour themes in one beamer presentation</title>
+    <link>http://tex.stackexchange.com/questions/5209/multiple-colour-themes-in-one-beamer-presentation</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to end a header 3 box in rmarkdown beamer madrid presentation?</title>
+    <link>http://stackoverflow.com/questions/27379597/how-to-end-a-header-3-box-in-rmarkdown-beamer-madrid-presentation</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Where can I find a list of itemize bullet shapes in LaTex Beamer?</title>
+    <link>http://tex.stackexchange.com/questions/93874/where-can-i-find-a-list-of-itemize-bullet-shapes-in-latex-beamer</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Use CSS-style color specifications in xcolor?</title>
+    <link>http://tex.stackexchange.com/questions/18008/use-css-style-color-specifications-in-xcolor</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Plot a heart in R</title>
+    <link>http://stackoverflow.com/questions/8082429/plot-a-heart-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Creating a filled contour plot using data in lists</title>
+    <link>http://stackoverflow.com/questions/12601522/creating-a-filled-contour-plot-using-data-in-lists</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>FontAwesome font not found?</title>
+    <link>http://tex.stackexchange.com/questions/132888/fontawesome-font-not-found</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to customize title page in beamer so that it looks like</title>
+    <link>http://tex.stackexchange.com/questions/110925/how-to-customize-title-page-in-beamer-so-that-it-looks-like</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Changing the default title/author/institution/frametitle font in Beamer</title>
+    <link>http://tex.stackexchange.com/questions/113312/changing-the-default-title-author-institution-frametitle-font-in-beamer</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>data.table vs dplyr: can one do something well the other can't or does poorly?</title>
+    <link>http://stackoverflow.com/questions/21435339/data-table-vs-dplyr-can-one-do-something-well-the-other-cant-or-does-poorly</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Landscape figure in LaTeX</title>
+    <link>http://tex.stackexchange.com/questions/50070/landscape-figure-in-latex</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How do I comment out text in an RMD file?</title>
+    <link>http://stackoverflow.com/questions/17046518/how-do-i-comment-out-text-in-an-rmd-file</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to remove the % lines in xtable table output by Knitr</title>
+    <link>http://stackoverflow.com/questions/24400308/how-to-remove-the-lines-in-xtable-table-output-by-knitr</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How can I explain the meaning of LaTeX to my grandma?</title>
+    <link>http://tex.stackexchange.com/questions/94889/how-can-i-explain-the-meaning-of-latex-to-my-grandma</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How can I typeset the date/time at compile time?</title>
+    <link>http://tex.stackexchange.com/questions/994/how-can-i-typeset-the-date-time-at-compile-time</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to include LaTeX package in R Markdown?</title>
+    <link>http://tex.stackexchange.com/questions/171711/how-to-include-latex-package-in-r-markdown</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Free ornaments font</title>
+    <link>http://tex.stackexchange.com/questions/10941/free-ornaments-font</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>End of paragraph with ornament</title>
+    <link>http://tex.stackexchange.com/questions/11320/end-of-paragraph-with-ornament</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>ggplot2 facet_grid arrange panels</title>
+    <link>http://stackoverflow.com/questions/12197437/ggplot2-facet-grid-arrange-panels</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>ggplot2 two-line label with expression</title>
+    <link>http://stackoverflow.com/questions/13223846/ggplot2-two-line-label-with-expression</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Expression and new line in plot labels</title>
+    <link>http://stackoverflow.com/questions/20549337/expression-and-new-line-in-plot-labels</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Using Git and Dropbox together effectively?</title>
+    <link>http://stackoverflow.com/questions/1960799/using-git-and-dropbox-together-effectively</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How can I add &#x201C;current streak&#x201D; of contributions from github to my blog?</title>
+    <link>http://stackoverflow.com/questions/15978845/how-can-i-add-current-streak-of-contributions-from-github-to-my-blog</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>&#x201C;package &#x2018;mgcv&#x2019; could not be loaded&#x201D; only in RStudio</title>
+    <link>http://stackoverflow.com/questions/19086111/package-mgcv-could-not-be-loaded-only-in-rstudio</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>store output of system command into a variable in r</title>
+    <link>http://stackoverflow.com/questions/11098277/store-output-of-system-command-into-a-variable-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>In RStudio/RMarkdown, how to setwd?</title>
+    <link>http://stackoverflow.com/questions/20060518/in-rstudio-rmarkdown-how-to-setwd</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Changing font in PDF produced by rmarkdown</title>
+    <link>http://stackoverflow.com/questions/24421235/changing-font-in-pdf-produced-by-rmarkdown</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Using grep to help subset a data frame in R</title>
+    <link>http://stackoverflow.com/questions/21311386/using-grep-to-help-subset-a-data-frame-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to output a list to file in R</title>
+    <link>http://stackoverflow.com/questions/12718472/how-to-output-a-list-to-file-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Read multiple CSV files into separate data frames</title>
+    <link>http://stackoverflow.com/questions/5319839/read-multiple-csv-files-into-separate-data-frames</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Plot a legend outside of the plotting area in base graphics?</title>
+    <link>http://stackoverflow.com/questions/3932038/plot-a-legend-outside-of-the-plotting-area-in-base-graphics</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>In R, why is `[` better than `subset`?</title>
+    <link>http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>TclTk library issue while install Rcmdr package on MacBookPro</title>
+    <link>http://stackoverflow.com/questions/18550971/tcltk-library-issue-while-install-rcmdr-package-on-macbookpro</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Fontspec 2.4 and Scale=MatchLowercase causes error</title>
+    <link>http://tex.stackexchange.com/questions/185713/fontspec-2-4-and-scale-matchlowercase-causes-error</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Markdown and image alignment</title>
+    <link>http://stackoverflow.com/questions/255170/markdown-and-image-alignment</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>ggplot2: Adding Regression Line Equation and R2 on graph</title>
+    <link>http://stackoverflow.com/questions/7549694/ggplot2-adding-regression-line-equation-and-r2-on-graph</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>plotting regression line in with lattice</title>
+    <link>http://stackoverflow.com/questions/8853952/plotting-regression-line-in-with-lattice</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to add nls() fit with lattice</title>
+    <link>http://stackoverflow.com/questions/22845563/how-to-add-nls-fit-with-lattice</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Changing style of alert environment in beamer</title>
+    <link>http://tex.stackexchange.com/questions/9637/changing-style-of-alert-environment-in-beamer</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to define a list with custom symbols?</title>
+    <link>http://tex.stackexchange.com/questions/10192/how-to-define-a-list-with-custom-symbols</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Image on full slide in beamer package</title>
+    <link>http://tex.stackexchange.com/questions/3915/image-on-full-slide-in-beamer-package</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Overlay data onto Background image in R</title>
+    <link>http://stackoverflow.com/questions/4993189/overlay-data-onto-background-image-in-r</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>PDF to HTML Mac</title>
+    <link>http://stackoverflow.com/questions/3649785/pdf-to-html-mac</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Good ways to manage a changelog using git?</title>
+    <link>http://stackoverflow.com/questions/3523534/good-ways-to-manage-a-changelog-using-git</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Changelog generation from Github issues?</title>
+    <link>http://stackoverflow.com/questions/14960674/changelog-generation-from-github-issues</link>
+    <pubDate>Sun Sep 20 02:22:47 2015</pubDate>
+  </item> 
 </channel> 
 </rss>
