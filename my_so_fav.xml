@@ -5,6 +5,11 @@
 <link>https://github.com/uribo/custom_feed/blob/master/my_so_fav.xml</link>
 <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/uribo/custom_feed/master/my_so_fav.xml"/>
   <item> 
+    <title>View entire dataframe when wrapped in tbl_df?</title>
+    <link>http://stackoverflow.com/questions/23188900/view-entire-dataframe-when-wrapped-in-tbl-df</link>
+    <pubDate>Sun Sep 20 17:06:32 2015</pubDate>
+  </item> 
+  <item> 
     <title>How to create missing value for repeated measurement data?</title>
     <link>http://stackoverflow.com/questions/32654706/how-to-create-missing-value-for-repeated-measurement-data</link>
     <pubDate>Sun Sep 20 06:59:52 2015</pubDate>
