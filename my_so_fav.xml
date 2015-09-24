@@ -5,6 +5,21 @@
 <link>https://github.com/uribo/custom_feed/blob/master/my_so_fav.xml</link>
 <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/uribo/custom_feed/master/my_so_fav.xml"/>
   <item> 
+    <title>Convert UNIX epoch to Date object in R</title>
+    <link>http://stackoverflow.com/questions/13456241/convert-unix-epoch-to-date-object-in-r</link>
+    <pubDate>Thu Sep 24 10:28:09 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How do I quickly convert the size element of file.info() from bytes to KB, MB, GB, etc.?</title>
+    <link>http://stackoverflow.com/questions/29787452/how-do-i-quickly-convert-the-size-element-of-file-info-from-bytes-to-kb-mb-g</link>
+    <pubDate>Thu Sep 24 10:28:09 2015</pubDate>
+  </item> 
+  <item> 
+    <title>how to find out the start time of last sleep</title>
+    <link>http://apple.stackexchange.com/questions/52064/how-to-find-out-the-start-time-of-last-sleep</link>
+    <pubDate>Thu Sep 24 10:28:09 2015</pubDate>
+  </item> 
+  <item> 
     <title>View entire dataframe when wrapped in tbl_df?</title>
     <link>http://stackoverflow.com/questions/23188900/view-entire-dataframe-when-wrapped-in-tbl-df</link>
     <pubDate>Sun Sep 20 17:06:32 2015</pubDate>
