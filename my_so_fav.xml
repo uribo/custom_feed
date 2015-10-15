@@ -5,6 +5,31 @@
 <link>https://github.com/uribo/custom_feed/blob/master/my_so_fav.xml</link>
 <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/uribo/custom_feed/master/my_so_fav.xml"/>
   <item> 
+    <title>Using dplyr for frequency counts</title>
+    <link>http://stackoverflow.com/questions/23778195/using-dplyr-for-frequency-counts</link>
+    <pubDate>Thu Oct 15 21:43:28 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Count and Aggregate Date in R</title>
+    <link>http://stackoverflow.com/questions/33139720/count-and-aggregate-date-in-r</link>
+    <pubDate>Thu Oct 15 21:43:28 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Convert roman numerals to numbers in R</title>
+    <link>http://stackoverflow.com/questions/21116763/convert-roman-numerals-to-numbers-in-r</link>
+    <pubDate>Thu Oct 15 21:43:28 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Converting numbers into time in R</title>
+    <link>http://stackoverflow.com/questions/33118236/converting-numbers-into-time-in-r</link>
+    <pubDate>Thu Oct 15 21:43:28 2015</pubDate>
+  </item> 
+  <item> 
+    <title>How to calculate polygon centroids in R (for non-contiguous shapes)</title>
+    <link>http://gis.stackexchange.com/questions/43543/how-to-calculate-polygon-centroids-in-r-for-non-contiguous-shapes</link>
+    <pubDate>Thu Oct 15 21:43:28 2015</pubDate>
+  </item> 
+  <item> 
     <title>Plots on a map using ggplot2</title>
     <link>http://stackoverflow.com/questions/16028659/plots-on-a-map-using-ggplot2</link>
     <pubDate>Mon Oct 12 19:51:20 2015</pubDate>
