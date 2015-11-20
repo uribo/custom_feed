@@ -5,6 +5,31 @@
 <link>https://github.com/uribo/custom_feed/blob/master/my_so_fav.xml</link>
 <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/uribo/custom_feed/master/my_so_fav.xml"/>
   <item> 
+    <title>Link tip labels to phylogenetic tree using dots</title>
+    <link>http://stackoverflow.com/questions/25276322/link-tip-labels-to-phylogenetic-tree-using-dots</link>
+    <pubDate>Fri Nov 20 11:47:27 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Apply a ggplot-function per group with dplyr and set title per group</title>
+    <link>http://stackoverflow.com/questions/29034863/apply-a-ggplot-function-per-group-with-dplyr-and-set-title-per-group</link>
+    <pubDate>Fri Nov 20 11:47:27 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Superimposing a log-normal density in ggplot and stat_function()</title>
+    <link>http://stackoverflow.com/questions/12464396/superimposing-a-log-normal-density-in-ggplot-and-stat-function</link>
+    <pubDate>Fri Nov 20 11:47:27 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Applying a function to every row of a table using dplyr?</title>
+    <link>http://stackoverflow.com/questions/21818181/applying-a-function-to-every-row-of-a-table-using-dplyr</link>
+    <pubDate>Fri Nov 20 11:47:27 2015</pubDate>
+  </item> 
+  <item> 
+    <title>R sequence of dates with lubridate</title>
+    <link>http://stackoverflow.com/questions/16932132/r-sequence-of-dates-with-lubridate</link>
+    <pubDate>Fri Nov 20 11:47:27 2015</pubDate>
+  </item> 
+  <item> 
     <title>Piecewise regression with R: plotting the segments</title>
     <link>http://stackoverflow.com/questions/8758646/piecewise-regression-with-r-plotting-the-segments</link>
     <pubDate>Sat Oct 24 07:35:18 2015</pubDate>
