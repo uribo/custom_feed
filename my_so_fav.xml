@@ -5,6 +5,11 @@
 <link>https://github.com/uribo/custom_feed/blob/master/my_so_fav.xml</link>
 <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/uribo/custom_feed/master/my_so_fav.xml"/>
   <item> 
+    <title>Install R 3.1.2 on Wheezy 7.8 (Raspbian) fails</title>
+    <link>http://stackoverflow.com/questions/28309891/install-r-3-1-2-on-wheezy-7-8-raspbian-fails</link>
+    <pubDate>Sat Dec 12 02:58:49 2015</pubDate>
+  </item> 
+  <item> 
     <title>ggplot2: Change color for each facet in bar chart</title>
     <link>http://stackoverflow.com/questions/34043312/ggplot2-change-color-for-each-facet-in-bar-chart</link>
     <pubDate>Mon Dec  7 05:23:22 2015</pubDate>
