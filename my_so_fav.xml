@@ -5,6 +5,16 @@
 <link>https://github.com/uribo/custom_feed/blob/master/my_so_fav.xml</link>
 <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/uribo/custom_feed/master/my_so_fav.xml"/>
   <item> 
+    <title>Saving leaflet output as html</title>
+    <link>http://stackoverflow.com/questions/30110377/saving-leaflet-output-as-html</link>
+    <pubDate>Sat Dec 19 15:18:20 2015</pubDate>
+  </item> 
+  <item> 
+    <title>Create a gif from a series of Leaflet maps in R</title>
+    <link>http://stackoverflow.com/questions/33508486/create-a-gif-from-a-series-of-leaflet-maps-in-r</link>
+    <pubDate>Sat Dec 19 15:18:20 2015</pubDate>
+  </item> 
+  <item> 
     <title>Install R 3.1.2 on Wheezy 7.8 (Raspbian) fails</title>
     <link>http://stackoverflow.com/questions/28309891/install-r-3-1-2-on-wheezy-7-8-raspbian-fails</link>
     <pubDate>Sat Dec 12 02:58:49 2015</pubDate>
