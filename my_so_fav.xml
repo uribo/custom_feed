@@ -5,6 +5,21 @@
 <link>https://github.com/uribo/custom_feed/blob/master/my_so_fav.xml</link>
 <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/uribo/custom_feed/master/my_so_fav.xml"/>
   <item> 
+    <title>Getting the top values by group using dplyr</title>
+    <link>http://stackoverflow.com/questions/27766054/getting-the-top-values-by-group-using-dplyr</link>
+    <pubDate>Sat Jan  2 23:52:26 2016</pubDate>
+  </item> 
+  <item> 
+    <title>Importing files from PostgreSQL to R</title>
+    <link>http://stackoverflow.com/questions/12490863/importing-files-from-postgresql-to-r</link>
+    <pubDate>Sat Jan  2 23:52:26 2016</pubDate>
+  </item> 
+  <item> 
+    <title>How to get track ID from URL using the SoundCloud API</title>
+    <link>http://stackoverflow.com/questions/26289927/how-to-get-track-id-from-url-using-the-soundcloud-api</link>
+    <pubDate>Sat Jan  2 23:52:26 2016</pubDate>
+  </item> 
+  <item> 
     <title>Saving leaflet output as html</title>
     <link>http://stackoverflow.com/questions/30110377/saving-leaflet-output-as-html</link>
     <pubDate>Sat Dec 19 15:18:20 2015</pubDate>
